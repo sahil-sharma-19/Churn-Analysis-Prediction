@@ -7,7 +7,7 @@ This project is an end-to-end telecom churn analysis and prediction using intera
    - The primary language for data analysis, processing, and predictive modeling.
 
 - *Jupyter Notebook*
-  Interactive environment for step-by-step exploration, documentation, and sharing workflows.
+  - Interactive environment for step-by-step exploration, documentation, and sharing workflows.
 
 - *Pandas & Numpy*
    - Reliable libraries for data manipulation, cleaning, transformation, and fast numerical computations.
