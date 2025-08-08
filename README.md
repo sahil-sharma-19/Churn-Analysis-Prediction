@@ -1,7 +1,7 @@
 # Churn-Analysis-Prediction
 This project is an end-to-end telecom churn analysis and prediction using interactive dashboards and machine learning. Visualizes churn trends, identifies at-risk customers, and provides key insights for targeted retention strategies.
 
-## Key Technologies Used
+## Key-Technologies-Used
 Python: Core programming language for data analysis and modeling.
 
 Jupyter Notebook: For interactive data exploration and step-by-step documentation.
