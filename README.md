@@ -111,4 +111,5 @@ Overall, these insights enable the business to move from reactive reporting to p
 
 ## Dashboard Preview
 
-![Healthcare Waitlist Analytics Dashboard](https://github.com/sahil-sharma-19/Healthcare-Waitlist-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Summary%20Dashboard.png)
+![Churn-Analysis-Prediction](https://github.com/sahil-sharma-19/Churn-Analysis-Prediction/blob/main/Snapshot%20of%20the%20Summary%20Analysis.png)
+
