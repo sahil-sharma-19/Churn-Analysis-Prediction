@@ -34,3 +34,34 @@ Usage patterns and monthly charges
 Churn tracking (churn status, category, and reason)
 
 This sample data enables comprehensive analysis and predictive modeling of customer churn, mirroring challenges faced in real-world subscription industries. It supports exploration of factors influencing churn as well as the development of machine learning solutions for customer retention.
+
+## Features & Highlights
+Comprehensive Churn Monitoring
+Track total customers, new joiners, churned customers, and churn rates across various demographics and account segments. Analyze month-over-month or tenure-based churn trends for deeper retention insights.
+
+Demographic & Geographic Breakdown
+Visualize churn distribution by gender, age group, marital status, and by top states. Identify regions and population segments with higher churn risk to prioritize targeted interventions.
+
+Tenure & Contract Analytics
+Analyze churn by tenure (months with company), contract type (month-to-month, one year, two year), and payment methods. Pinpoint customer cohorts and contractual arrangements most linked to attrition.
+
+Service Impact Assessment
+Map churn rates against usage of key services: internet type, phone plans, streaming, online security, backup, and device protection. See how specific add-ons drive retention or increase churn likelihood.
+
+Churn Attribution & Reasoning
+Break down total churn by category (Competitor, Attitude, Dissatisfaction, Price, Other) and explore primary reasons for customer departure. Use these insights to guide business strategy and improve customer satisfaction.
+
+Predictive Churn Model
+Machine learning models (Random Forest, etc.) classify customers at risk of churning. Generate actionable lists of “Customers at Risk” including churner profiles—by state, age, tenure, payment method, and predicted probability.
+
+Dynamic Filtering & Exploration
+Interactively filter dashboards by monthly charge range, marital status, contract type, and more. Drill down into granular views for detailed analysis of specific customer segments.
+
+Key Performance Indicators (KPIs)
+Monitor KPIs such as total customers, new joiners, total churn, churn rate, and revenue at risk directly from the main dashboard.
+
+Intuitive Visualizations
+Leverage pie charts, bar graphs, line plots, and interactive cards for data exploration. Easily toggle between summary and churn prediction for stakeholder presentations.
+
+Secure & Shareable
+Project structure designed for easy sharing, reproducibility, and integration in team settings. Ready for future deployment as a web dashboard or integration with BI tools.
