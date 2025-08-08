@@ -19,7 +19,7 @@ This project is an end-to-end telecom churn analysis and prediction using intera
 
 - ## Data Source Information
 
-- The sample dataset illustrated here has been synthesized for demonstration purposes in the Customer Churn Analysis and Prediction Dashboard. It is designed to closely simulate real-world telecom operations and typical customer records, including churn status, account history, payment details, service usage, and demographic information.
+ The sample dataset illustrated here has been synthesized for demonstration purposes in the Customer Churn Analysis and Prediction Dashboard. It is designed to closely simulate real-world telecom operations and typical customer records, including churn status, account history, payment details, service usage, and demographic information.
 
 The structure and fields in this synthetic data are inspired by attributes commonly maintained in telecom and subscription management systems, such as:
 
