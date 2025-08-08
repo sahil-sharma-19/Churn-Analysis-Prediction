@@ -1,24 +1,25 @@
 # Churn-Analysis-Prediction
 This project is an end-to-end telecom churn analysis and prediction using interactive dashboards and machine learning. Visualizes churn trends, identifies at-risk customers, and provides key insights for targeted retention strategies.
 
-Key Technologies Used
-Python
-The primary language for all data cleaning, analysis, and predictive modeling tasks.
+## Key Technologies Used
 
-Jupyter Notebook
-Interactive environment for step-by-step exploratory data analysis, model building, and documenting insights.
+- *Python*
+The primary language for data analysis, processing, and predictive modeling.
 
-pandas & numpy
-Industry-standard libraries for data manipulation, transformation, cleaning, and fast numerical computations.
+- *Jupyter Notebook*
+Interactive environment for step-by-step exploration, documentation, and sharing workflows.
 
-matplotlib & seaborn
-Visualization libraries for creating informative charts, trends, and graphical summaries of churn data.
+- *Pandas & Numpy*
+Reliable libraries for data manipulation, cleaning, transformation, and fast numerical computations.
 
-scikit-learn
-Comprehensive machine learning toolkit for feature engineering, model training, evaluation, and prediction.
+- *Matplotlib & Seaborn*
+Tools for designing visualizations, charts, and graphical summaries essential for communicating churn trends.
 
-joblib
-Efficient serialization library used to save and load trained machine learning models for future inference and deployment.
+- *Scikit-learn*
+Machine learning framework for feature engineering, preprocessing, model building, and evaluation.
 
-openpyxl
-Library for reading from and writing to Excel (.xlsx) files, allowing seamless integration with business data sources.
+- *Joblib*
+Efficient model serialization: saves trained models to disk and loads them back for future predictions or deployment.
+
+- *Openpyxl*
+Library for reading and writing Excel (.xlsx) files, enabling direct integration with business data sources.
