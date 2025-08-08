@@ -16,7 +16,7 @@ This project is an end-to-end telecom churn analysis and prediction using intera
    - Tools for designing visualizations, charts, and graphical summaries essential for communicating churn trends.
 
 - *Scikit-learn*
-   - Machine learning framework for feature engineering, preprocessing, model building, and evaluation.
+   - Machine learning framework for preprocessing, model building, and evaluation.
 
 - *Joblib*
    - Efficient model serialization: saves trained models to disk and loads them back for future predictions or deployment.
