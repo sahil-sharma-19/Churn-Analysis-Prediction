@@ -76,3 +76,35 @@ Leverage pie charts, bar graphs, line plots, and interactive cards for data expl
 - *Secure & Shareable*
 
 Project structure designed for easy sharing, reproducibility, and integration in team settings. Ready for future deployment as a web dashboard or integration with BI tools.
+
+## Impacts
+
+Highest Risk Segments
+
+Customers over 50 years old and those with tenure above 24 months churn at higher rates (churn peaks at 31.1% and 27.5% respectively).
+
+Month-to-month contract holders churn at a rate of 48.5%, much higher than annual or biennial contract types.
+
+States like Jammu & Kashmir, Assam, and Jharkhand exhibit the highest churn, highlighting geographic targeting opportunities.
+
+Service Influence
+
+Use of Fiber Optic internet is associated with high churn (41.1%), suggesting either dissatisfaction or competitive offers in those regions.
+
+Customers with certain service add-ons (like Device Protection Plans, Online Backup, Multiple Lines) show significantly higher churn percentages (e.g., Device Protection Plan holders churn at 71%).
+
+Behavior & Payment
+
+Customers using “Mailed Check” and “Bank Withdrawal” as payment methods are at higher risk (37.8% and 34.4% churn rates), compared to those using credit cards.
+
+Churn is lowest among customers on two-year plans (2.7%) and those who pay by credit card (14.8%).
+
+Churn Attribution
+
+Most churns are attributed to competitors, with competitor-driven churn forming the largest share, followed by attitude and dissatisfaction reasons. This guides where product differentiation and customer engagement can be most impactful.
+
+Predictive Model Insights
+
+The dashboard’s machine learning outputs allow for actionable, individual-level intervention—teams can see which customers, by demographic and usage profile, are most at risk, supporting proactive outreach and tailored retention offers.
+
+Overall, these insights enable the business to move from reactive reporting to proactive churn management—optimizing retention, boosting revenue, and guiding continuous service improvement
