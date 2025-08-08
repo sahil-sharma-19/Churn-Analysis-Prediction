@@ -107,4 +107,8 @@ Project structure designed for easy sharing, reproducibility, and integration in
 
 - The dashboard’s machine learning outputs allow for actionable, individual-level intervention—teams can see which customers, by demographic and usage profile, are most at risk, supporting proactive outreach and tailored retention offers.
 
-Overall, these insights enable the business to move from reactive reporting to proactive churn management—optimizing retention, boosting revenue, and guiding continuous service improvement
+Overall, these insights enable the business to move from reactive reporting to proactive churn management—optimizing retention, boosting revenue, and guiding continuous service improvement.\
+
+## Dashboard Preview
+
+![Healthcare Waitlist Analytics Dashboard](https://github.com/sahil-sharma-19/Healthcare-Waitlist-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Summary%20Dashboard.png)
